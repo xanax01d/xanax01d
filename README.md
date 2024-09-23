@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaharia</h1>
-- 🔭 I’m currently working on [schedule bot on Telegram](https://github.com/xanax01d/newSBTAio)
+- 🔭 I’m currently working on [parser for Schedule bot](https://github.com/xanax01d/newSBTAio)
 
 - 🌱 I’m currently learning **Java, PostgreSQL**
 
