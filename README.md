@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaharia</h1>
 
-- 🌱 I’m currently learning **Java, PostgreSQL**
+- 🌱 I’m currently learning **Python, Java, PostgreSQL**
 
 - 🤝 I’m looking for help with [parser for Schedule bot](https://github.com/xanax01d/newSBTAio)
 
