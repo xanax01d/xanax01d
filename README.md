@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zahar</h1>
+<h1 align="center">Hi 👋, I'm Zaharia</h1>
 
 - 🌱 I’m currently learning **Python, Java, PostgreSQL**
 
