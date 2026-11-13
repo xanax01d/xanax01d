@@ -3,7 +3,7 @@
 # Hey, I'm Zaharia 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Developer+from+Minsk%2C+Belarus;Building+CLI%2FTUI+tools+and+visualizers+in+Rust;Developing+automation+bots+and+backends+in+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Developer+from+Minsk%2C+Belarus;Building+CLI%2FTUI+tools+and+bots+in+Rust;Developing+automation+bots+and+backends+in+Python" alt="Typing SVG" />
 </a>
 
 <br />
@@ -18,7 +18,7 @@
 
 ### ✨ About Me
 
-- 🦀 Building terminal apps, audio visualizers, and systems tools in **Rust** (also working with **Python**, **Java**, **C++**)
+- 🦀 Building terminal apps, Telegram bots, and backend services in **Rust** (also working with **Python**, **Java**, **C++**)
 - 🤖 Developing Telegram bots, parsers, and workflow automation
 - 🗄️ Working with **PostgreSQL**, **MySQL**, **Redis**, and **Linux**
 - 📫 Reach me at **[xanax01dd@gmail.com](mailto:xanax01dd@gmail.com)**
@@ -27,19 +27,11 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/xanax01d/spectrum-clock">
-    <img src="https://raw.githubusercontent.com/xanax01d/spectrum-clock/dev/docs/preview-en.png" width="84%" alt="spectrum-clock preview" />
-  </a>
-</div>
-
-<br />
-
 | Project | Stack | Description |
 | --- | :---: | --- |
-| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Real-time terminal audio spectrum visualizer, clock, weather & synced lyrics viewer (`ratatui`, `rustfft`, `cpal`) |
-| [**kitsumed**](https://github.com/xanax01d/kitsumed) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Rust application & tooling |
-| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Schedule parser & automation bot |
+| [**KitsuMed**](https://github.com/xanax01d/kitsumed) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Telegram migraine & headache diary bot (`teloxide`, `tokio`, `PostgreSQL`, `Redis`, `sqlx`) with 5-locale i18n, automated medication follow-ups, weather tracking & report exports |
+| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Terminal clock, audio spectrum, weather & synced lyrics app (`ratatui`, `rustfft`, `cpal`) |
+| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Telegram schedule bot for the Belarusian State Academy of Communications (BSAC) built with `aiogram` and a custom schedule parser |
 | [**simple_python_console_clock**](https://github.com/xanax01d/simple_python_console_clock) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Lightweight console clock in Python |
 
 ---
