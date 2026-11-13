@@ -53,6 +53,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xanax01d&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xanax01d&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xanax01d&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanax01d&theme=tokyonight" height="170" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=xanax01d&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
