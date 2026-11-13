@@ -2,7 +2,11 @@
 
 # Hey, I'm Zaharia 👋
 
-**Developer from Minsk, Belarus** · Building CLI/TUI tools, automation bots, and backend services in **Rust** & **Python**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Developer+from+Minsk%2C+Belarus;Building+CLI%2FTUI+tools+and+visualizers+in+Rust;Developing+automation+bots+and+backends+in+Python" alt="Typing SVG" />
+</a>
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaharia-klimkovich-509266326)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanax01d)
@@ -12,29 +16,37 @@
 
 ---
 
-### About Me
+### ✨ About Me
 
-- 🦀 Currently building terminal apps and systems tools in **Rust** (and **Python** / **Java** / **C++**)
+- 🦀 Building terminal apps, audio visualizers, and systems tools in **Rust** (also working with **Python**, **Java**, **C++**)
 - 🤖 Developing Telegram bots, parsers, and workflow automation
 - 🗄️ Working with **PostgreSQL**, **MySQL**, **Redis**, and **Linux**
-- 📫 Reach me at **xanax01dd@gmail.com**
+- 📫 Reach me at **[xanax01dd@gmail.com](mailto:xanax01dd@gmail.com)**
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/xanax01d/spectrum-clock">
+    <img src="https://raw.githubusercontent.com/xanax01d/spectrum-clock/dev/docs/preview-en.png" width="84%" alt="spectrum-clock preview" />
+  </a>
+</div>
+
+<br />
 
 | Project | Stack | Description |
-| --- | --- | --- |
-| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | `Rust` | Real-time terminal audio spectrum visualizer, clock, weather & synced lyrics viewer (`ratatui`, `rustfft`, `cpal`) |
-| [**kitsumed**](https://github.com/xanax01d/kitsumed) | `Rust` | Rust application & tooling |
-| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | `Python` | Schedule parser & automation bot |
-| [**simple_python_console_clock**](https://github.com/xanax01d/simple_python_console_clock) | `Python` | Lightweight console clock in Python |
+| --- | :---: | --- |
+| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Real-time terminal audio spectrum visualizer, clock, weather & synced lyrics viewer (`ratatui`, `rustfft`, `cpal`) |
+| [**kitsumed**](https://github.com/xanax01d/kitsumed) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | Rust application & tooling |
+| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Schedule parser & automation bot |
+| [**simple_python_console_clock**](https://github.com/xanax01d/simple_python_console_clock) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Lightweight console clock in Python |
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -46,13 +58,15 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+</div>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanax01d&theme=tokyonight" width="92%" alt="Profile Details" />
+  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xanax01d&theme=tokyonight" height="170" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanax01d&theme=tokyonight" height="170" alt="Top Languages" />
   <br />
