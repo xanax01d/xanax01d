@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Zaharia</h1>
+<div align="center">
 
-- 🌱 I’m currently learning **Python, Java, PostgreSQL**
+# Hey, I'm Zaharia 👋
 
-- 🤝 I’m looking for help with [parser for Schedule bot](https://github.com/xanax01d/newSBTAio)
+**Developer from Minsk, Belarus** · Building CLI/TUI tools, automation bots, and backend services in **Rust** & **Python**
 
-- 📫 How to reach me **xanax01dd@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaharia-klimkovich-509266326)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanax01d)
+[![Email](https://img.shields.io/badge/Email-xanax01dd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xanax01dd@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+### About Me
+
+- 🦀 Currently building terminal apps and systems tools in **Rust** (and **Python** / **Java** / **C++**)
+- 🤖 Developing Telegram bots, parsers, and workflow automation
+- 🗄️ Working with **PostgreSQL**, **MySQL**, **Redis**, and **Linux**
+- 📫 Reach me at **xanax01dd@gmail.com**
+
+---
+
+### Featured Projects
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | `Rust` | Real-time terminal audio spectrum visualizer, clock, weather & synced lyrics viewer (`ratatui`, `rustfft`, `cpal`) |
+| [**kitsumed**](https://github.com/xanax01d/kitsumed) | `Rust` | Rust application & tooling |
+| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | `Python` | Schedule parser & automation bot |
+| [**simple_python_console_clock**](https://github.com/xanax01d/simple_python_console_clock) | `Python` | Lightweight console clock in Python |
+
+---
+
+### Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/zaharia-klimkovich-509266326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xanax01d" height="30" width="40" /></a>
-<a href="https://instagram.com/xanax01d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanax01d" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanax01d&show_icons=true&locale=en&layout=compact" alt="xanax01d" /></p>
+### GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanax01d&show_icons=true&locale=en" alt="xanax01d" /></p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xanax01d&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xanax01d&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</div>
