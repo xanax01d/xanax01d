@@ -1,49 +1,21 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Zaharia</h1>
 
-# Zaharia Klimkovich
+- 🌱 I’m currently learning **Python, Java, PostgreSQL**
 
-**Systems & TUI Developer** · `Rust` · `Python` · `C++` · Minsk, Belarus
+- 🤝 I’m looking for help with [parser for Schedule bot](https://github.com/xanax01d/newSBTAio)
 
-[LinkedIn](https://linkedin.com/in/zaharia-klimkovich-509266326) · [Instagram](https://instagram.com/xanax01d) · [xanax01dd@gmail.com](mailto:xanax01dd@gmail.com)
+- 📫 How to reach me **xanax01dd@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zaharia-klimkovich-509266326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xanax01d" height="30" width="40" /></a>
+<a href="https://instagram.com/xanax01d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanax01d" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Featured
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanax01d&show_icons=true&locale=en&layout=compact" alt="xanax01d" /></p>
 
-<div align="center">
-  <a href="https://github.com/xanax01d/spectrum-clock">
-    <img src="https://raw.githubusercontent.com/xanax01d/spectrum-clock/dev/docs/preview-en.png" width="88%" alt="spectrum-clock" />
-  </a>
-  <br />
-  <sub><a href="https://github.com/xanax01d/spectrum-clock"><b>spectrum-clock</b></a> — Real-time terminal audio spectrum visualizer, clock, weather &amp; synced lyrics viewer in Rust</sub>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanax01d&show_icons=true&locale=en" alt="xanax01d" /></p>
 
-<br />
-
-| Repository | Stack | Overview |
-| --- | --- | --- |
-| [**spectrum-clock**](https://github.com/xanax01d/spectrum-clock) | `Rust` | Terminal audio visualizer (`ratatui`, `rustfft`, `cpal`, WASAPI & SMTC) |
-| [**kitsumed**](https://github.com/xanax01d/kitsumed) | `Rust` | Rust application & CLI tooling |
-| [**newSBTAio**](https://github.com/xanax01d/newSBTAio) | `Python` | Schedule parser & Telegram automation |
-| [**simple_python_console_clock**](https://github.com/xanax01d/simple_python_console_clock) | `Python` | Minimalist console clock |
-
----
-
-### Stack
-
-| | |
-| --- | --- |
-| **Languages** | `Rust` · `Python` · `Java` · `C++` |
-| **Data & Infra** | `PostgreSQL` · `MySQL` · `Redis` · `Linux` |
-| **Tools** | `Git` · `Figma` · `Arduino` · `TensorFlow` |
-
----
-
-### GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xanax01d&theme=github_dark" height="165" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanax01d&theme=github_dark" height="165" alt="Languages" />
-</div>
